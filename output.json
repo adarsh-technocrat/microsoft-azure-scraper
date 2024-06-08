@@ -1,0 +1,556 @@
+[
+    {
+        "title": "AI + Machine Learning",
+        "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1",
+        "children": [
+            {
+                "title": "Automated ML",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=automated-ml"
+            },
+            {
+                "title": "Bot Service",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=bot-service"
+            },
+            {
+                "title": "Business/Robotic Process Automation",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=business-robotic-process-automation"
+            },
+            {
+                "title": "Cognitive Service",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=cognitive-service"
+            },
+            {
+                "title": "Data Labeling",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=data-labelling"
+            },
+            {
+                "title": "Data Preparation",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=data-preparation"
+            },
+            {
+                "title": "Knowledge Mining",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=knowledge-mining"
+            },
+            {
+                "title": "ML Operations",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=ml-operations"
+            },
+            {
+                "title": "ML Service",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=ml-service"
+            },
+            {
+                "title": "Generative AI",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=generative-ai"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/ai-plus-machine-learning?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Analytics",
+        "link": "/en-us/marketplace/apps/category/analytics?page=1",
+        "children": [
+            {
+                "title": "Data Insights",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=data-insights"
+            },
+            {
+                "title": "Data Analytics",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=data-analytics"
+            },
+            {
+                "title": "Big Data",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=big-data"
+            },
+            {
+                "title": "Predictive Analytics",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=predictive-analytics"
+            },
+            {
+                "title": "Real-time/Streaming Analytics",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=real-time-streaming-analytics"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/analytics?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Blockchain",
+        "link": "/en-us/marketplace/apps/category/blockchain?page=1",
+        "children": [
+            {
+                "title": "App Accelerators",
+                "link": "/en-us/marketplace/apps/category/blockchain?page=1&subcategories=app-accelerators"
+            },
+            {
+                "title": "Single-node ledger",
+                "link": "/en-us/marketplace/apps/category/blockchain?page=1&subcategories=single-node-ledger"
+            },
+            {
+                "title": "Multi-node ledger",
+                "link": "/en-us/marketplace/apps/category/blockchain?page=1&subcategories=multi-node-ledger"
+            },
+            {
+                "title": "Tools",
+                "link": "/en-us/marketplace/apps/category/blockchain?page=1&subcategories=tools"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/blockchain?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Compute",
+        "link": "/en-us/marketplace/apps/category/compute?page=1",
+        "children": [
+            {
+                "title": "Application Infrastructure",
+                "link": "/en-us/marketplace/apps/category/compute?page=1&subcategories=application-infrastructure"
+            },
+            {
+                "title": "Operating Systems",
+                "link": "/en-us/marketplace/apps/category/compute?page=1&subcategories=operating-systems"
+            },
+            {
+                "title": "Cache",
+                "link": "/en-us/marketplace/apps/category/compute?page=1&subcategories=cache"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/compute?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Containers",
+        "link": "/en-us/marketplace/apps/category/containers?page=1",
+        "children": [
+            {
+                "title": "Kubernetes Apps",
+                "link": "/en-us/marketplace/apps/category/containers?page=1&subcategories=container-apps"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/containers?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Databases",
+        "link": "/en-us/marketplace/apps/category/databases?page=1",
+        "children": [
+            {
+                "title": "NoSQL Databases",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=nosql-databases"
+            },
+            {
+                "title": "Relational Databases",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=relational-databases"
+            },
+            {
+                "title": "Ledger/Blockchain Databases",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=ledger-blockchain-databases"
+            },
+            {
+                "title": "Data Lakes",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=data-lakes"
+            },
+            {
+                "title": "Data Warehouse",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=data-warehouse"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/databases?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Developer Tools",
+        "link": "/en-us/marketplace/apps/category/developer-tools?page=1",
+        "children": [
+            {
+                "title": "Tools",
+                "link": "/en-us/marketplace/apps/category/developer-tools?page=1&subcategories=tools"
+            },
+            {
+                "title": "Scripts",
+                "link": "/en-us/marketplace/apps/category/developer-tools?page=1&subcategories=scripts"
+            },
+            {
+                "title": "Developer Service",
+                "link": "/en-us/marketplace/apps/category/developer-tools?page=1&subcategories=devService"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/developer-tools?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "DevOps",
+        "link": "/en-us/marketplace/apps/category/devops?page=1",
+        "children": [
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/devops?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Identity",
+        "link": "/en-us/marketplace/apps/category/identity?page=1",
+        "children": [
+            {
+                "title": "Access Management",
+                "link": "/en-us/marketplace/apps/category/identity?page=1&subcategories=identity-access-mgmt"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/identity?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Integration",
+        "link": "/en-us/marketplace/apps/category/integration?page=1",
+        "children": [
+            {
+                "title": "Messaging",
+                "link": "/en-us/marketplace/apps/category/integration?page=1&subcategories=messaging"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/integration?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Internet of Things",
+        "link": "/en-us/marketplace/apps/category/internet-of-things?page=1",
+        "children": [
+            {
+                "title": "IoT Connectivity",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-connectivity"
+            },
+            {
+                "title": "IoT Solutions",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-solutions"
+            },
+            {
+                "title": "IoT Analytics & Data",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=data-analytics-visualizations"
+            },
+            {
+                "title": "IoT Security",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-security"
+            },
+            {
+                "title": "IoT & IIoT Platforms",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-iiot-platforms"
+            },
+            {
+                "title": "IoT Core Services",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-core-services"
+            },
+            {
+                "title": "IoT Edge Modules",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=iot-edge-modules"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/internet-of-things?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "IT & Management Tools",
+        "link": "/en-us/marketplace/apps/category/management-tools?page=1",
+        "children": [
+            {
+                "title": "Management Solutions",
+                "link": "/en-us/marketplace/apps/category/management-tools?page=1&subcategories=management-solutions"
+            },
+            {
+                "title": "Business Applications",
+                "link": "/en-us/marketplace/apps/category/management-tools?page=1&subcategories=business-applications"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/management-tools?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Media",
+        "link": "/en-us/marketplace/apps/category/media?page=1",
+        "children": [
+            {
+                "title": "Media services",
+                "link": "/en-us/marketplace/apps/category/media?page=1&subcategories=media-services"
+            },
+            {
+                "title": "Content Protection",
+                "link": "/en-us/marketplace/apps/category/media?page=1&subcategories=content-protection"
+            },
+            {
+                "title": "Live & On-Demand Streaming",
+                "link": "/en-us/marketplace/apps/category/media?page=1&subcategories=live-and-on-demand-streaming"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/media?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Microsoft Entra ID",
+        "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1",
+        "children": [
+            {
+                "title": "Business Management",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=business-management"
+            },
+            {
+                "title": "Construction",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=construction"
+            },
+            {
+                "title": "Consumer",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=consumer"
+            },
+            {
+                "title": "Content Management",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=content-management"
+            },
+            {
+                "title": "CRM",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=crm"
+            },
+            {
+                "title": "Data Services",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=data-services"
+            },
+            {
+                "title": "Developer Services",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=developer-services"
+            },
+            {
+                "title": "Ecommerce",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=ecommerce"
+            },
+            {
+                "title": "Education",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=education"
+            },
+            {
+                "title": "ERP",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=erp"
+            },
+            {
+                "title": "Health",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=health"
+            },
+            {
+                "title": "IT Infrastructure",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=it-infrastructure"
+            },
+            {
+                "title": "Mail",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=mail"
+            },
+            {
+                "title": "Media",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=media"
+            },
+            {
+                "title": "Project Management",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=project-management"
+            },
+            {
+                "title": "Security",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=security"
+            },
+            {
+                "title": "Social",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=social"
+            },
+            {
+                "title": "Supply Management",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=supply-management"
+            },
+            {
+                "title": "Telecommunications",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=telecommunications"
+            },
+            {
+                "title": "Tools",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=tools"
+            },
+            {
+                "title": "Travel",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=travel"
+            },
+            {
+                "title": "Web Design & Hosting",
+                "link": "/en-us/marketplace/apps/category/azure-active-directory-apps?page=1&subcategories=web-design-hosting"
+            }
+        ]
+    },
+    {
+        "title": "Migration",
+        "link": "/en-us/marketplace/apps/category/migration?page=1",
+        "children": [
+            {
+                "title": "Data Migration",
+                "link": "/en-us/marketplace/apps/category/migration?page=1&subcategories=data-migration"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/migration?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Mixed Reality",
+        "link": "/en-us/marketplace/apps/category/mixed-reality?page=1",
+        "children": [
+            {
+                "title": "Gaming",
+                "link": "/en-us/marketplace/apps/category/mixed-reality?page=1&subcategories=gaming"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/mixed-reality?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Monitoring & Diagnostics",
+        "link": "/en-us/marketplace/apps/category/monitoring-and-diagnostics?page=1",
+        "children": [
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/monitoring-and-diagnostics?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Networking",
+        "link": "/en-us/marketplace/apps/category/networking?page=1",
+        "children": [
+            {
+                "title": "Featured",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=featured"
+            },
+            {
+                "title": "Appliance Managers",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=appliance-managers"
+            },
+            {
+                "title": "Connectivity",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=connectivity"
+            },
+            {
+                "title": "Firewalls",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=firewalls"
+            },
+            {
+                "title": "Load Balancers",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=load-balancers"
+            },
+            {
+                "title": "Private MEC",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=private-mec"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/networking?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Security",
+        "link": "/en-us/marketplace/apps/category/security?page=1",
+        "children": [
+            {
+                "title": "Identity & Access Management",
+                "link": "/en-us/marketplace/apps/category/security?page=1&subcategories=identity-and-access-management"
+            },
+            {
+                "title": "Threat Protection",
+                "link": "/en-us/marketplace/apps/category/security?page=1&subcategories=threat-protection"
+            },
+            {
+                "title": "Information Protection and Governance",
+                "link": "/en-us/marketplace/apps/category/security?page=1&subcategories=information-protection"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/security?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Storage",
+        "link": "/en-us/marketplace/apps/category/storage?page=1",
+        "children": [
+            {
+                "title": "Backup & Recovery",
+                "link": "/en-us/marketplace/apps/category/storage?page=1&subcategories=backup-and-recovery"
+            },
+            {
+                "title": "Enterprise Hybrid Storage",
+                "link": "/en-us/marketplace/apps/category/storage?page=1&subcategories=enterprise-hybrid-storage"
+            },
+            {
+                "title": "Block, File & Object Sharing",
+                "link": "/en-us/marketplace/apps/category/storage?page=1&subcategories=file-sharing"
+            },
+            {
+                "title": "Data Management",
+                "link": "/en-us/marketplace/apps/category/storage?page=1&subcategories=data-lifecycle-management"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/storage?page=1&subcategories=all"
+            }
+        ]
+    },
+    {
+        "title": "Web",
+        "link": "/en-us/marketplace/apps/category/web?page=1",
+        "children": [
+            {
+                "title": "Blogs & CMSs",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=blogs-cmss"
+            },
+            {
+                "title": "Starter Web Apps",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=starter-web-apps"
+            },
+            {
+                "title": "Ecommerce",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=ecommerce"
+            },
+            {
+                "title": "Web App Frameworks",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=web-app-frameworks"
+            },
+            {
+                "title": "Web Apps",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=web-apps"
+            },
+            {
+                "title": "All",
+                "link": "/en-us/marketplace/apps/category/web?page=1&subcategories=all"
+            }
+        ]
+    }
+]
