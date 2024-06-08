@@ -85,9 +85,16 @@ class ScraperFlow:
         updated_soup = self.parse_content(updated_content)
         list_of_apps = updated_soup.find(class_='spza_filteredTileContainer')
         apps_data = list_of_apps.find_all('a')
-        print(apps_data)
+        for apps in apps_data:
+            apps_title = apps.get_text()
+            apps_link = apps.get('href')
+            # element = self.driver.find_element(By.LINK_TEXT, apps_title)
+            
+            # element.click()
+            # print(element)
         return
-     
+    
+     # FLOW ---4
                 
     def close_driver(self):
         self.driver.quit()
