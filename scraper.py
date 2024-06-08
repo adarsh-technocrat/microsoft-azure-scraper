@@ -19,16 +19,15 @@ class ScraperFlow:
     def parse_content(self, content):
         return BeautifulSoup(content, "html.parser")
     
-    def get_total_count(text):
+    def get_total_count(self, text):
         count_match = re.search(r'\((\d+)\)', text)
-        
         if count_match:
             total_count = int(count_match.group(1))
             return total_count
         else:
             return None
-            
-    #  FLOW ---- 1
+    
+    # FLOW ---- 1
     def get_list_of_search_space_data(self, url):
         content = self.fetch_page(url)
         content_soup = self.parse_content(content)
@@ -37,14 +36,14 @@ class ScraperFlow:
         list_of_data = []
 
         if data_main:
-            data_title = data_main.find_all('li',class_='filterPaneItemRoot')
+            data_title = data_main.find_all('li', class_='filterPaneItemRoot')
             
             for list_item in data_title:
                 a_tag = list_item.find('a')          
                 item_title = a_tag.get_text()
                 item_link = a_tag.get('href')
                 
-                if(item_title=="Get Started"):
+                if item_title == "Get Started":
                     continue
                 
                 element = self.driver.find_element(By.LINK_TEXT, item_title)
@@ -56,38 +55,38 @@ class ScraperFlow:
                     updated_soup = self.parse_content(updated_content)
                     childFilterGroup = updated_soup.find(class_='childFilterGroup')
                     children_data = childFilterGroup.find_all('a')
-                    self.get_list_of_childs(children_data=children_data)
-                    self.driver.back()
-                    WebDriverWait(self.driver, 10).until(EC.url_to_be(url))
+                    self.get_list_of_childs(children_data)
                     
                 except Exception as e:
                     self.driver.back()
                     element.click()
-                    WebDriverWait(self.driver, 10).until(EC.url_to_be(url))
+                    
 
         return list_of_data
         
 
-    #  FLOW ---- 2 
-    def get_list_of_childs(self,children_data):    
-         for child in children_data:
+    # FLOW ---- 2 
+    def get_list_of_childs(self, children_data):    
+        for child in children_data:
             child_title = child.get_text()
             child_link = child.get('href')
-            if(child_title=="All"):
+            if child_title == "All":
                 continue
             element = self.driver.find_element(By.LINK_TEXT, child_title)
             element.click()
-            # self.get_list_of_child_apps(self)
+            self.get_list_of_child_apps()
+        return
             
             
     # FLOW ---- 3
     def get_list_of_child_apps(self):
-        WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "spza_filteredTileContainer"))) 
+        WebDriverWait(self.driver, 40).until(EC.visibility_of_element_located((By.CLASS_NAME, "spza_filteredTileContainer"))) 
         updated_content = self.driver.page_source
         updated_soup = self.parse_content(updated_content)
         list_of_apps = updated_soup.find(class_='spza_filteredTileContainer')
         apps_data = list_of_apps.find_all('a')
         print(apps_data)
+        return
      
                 
     def close_driver(self):
@@ -101,4 +100,3 @@ class ScraperFlow:
 # Usage
 scraper = ScraperFlow()
 data = scraper.run('https://azuremarketplace.microsoft.com/en-us/marketplace/apps')
-
